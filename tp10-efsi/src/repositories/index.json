@@ -1,0 +1,12 @@
+{
+  "favoritos": [],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "admin",
+      "email": "admin",
+      "contrasenia": "admin",
+      "activo": true
+    }
+  ]
+}
